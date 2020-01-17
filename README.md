@@ -29,8 +29,8 @@
 ![白吐司图片](toast.jpg)
 
 ```javascript
-var White toast=1
+var toast=1
 
-console.log('White toast')
+console.log('toast')
 ```
 
